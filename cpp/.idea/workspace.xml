@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="cpp" targetName="cpp" />
@@ -12,37 +30,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e219a2c-9c7d-4b78-9a1d-40f45b78b11e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../py/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../py/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../py/.idea/py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../py/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../py/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/agc044/agc044_1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cpp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/depend.internal" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +54,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="cpp">
+    <configuration name="cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="$PROJECT_DIR$/input.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="cpp">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -84,10 +77,44 @@
       <option name="presentableId" value="Default" />
       <updated>1590322908676</updated>
       <workItem from="1590322909948" duration="470000" />
+      <workItem from="1590324492593" duration="940000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="34" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590326790004">
+      <screen x="34" y="23" width="1406" height="877" />
+    </state>
+    <state x="34" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590326790004" />
+    <state width="815" height="79" key="GridCell.Tab.0.bottom" timestamp="1590327075961">
+      <screen x="34" y="23" width="1406" height="877" />
+    </state>
+    <state width="815" height="79" key="GridCell.Tab.0.bottom/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590327075961" />
+    <state width="815" height="79" key="GridCell.Tab.0.center" timestamp="1590327075960">
+      <screen x="34" y="23" width="1406" height="877" />
+    </state>
+    <state width="815" height="79" key="GridCell.Tab.0.center/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590327075960" />
+    <state width="815" height="79" key="GridCell.Tab.0.left" timestamp="1590327075960">
+      <screen x="34" y="23" width="1406" height="877" />
+    </state>
+    <state width="815" height="79" key="GridCell.Tab.0.left/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590327075960" />
+    <state width="815" height="79" key="GridCell.Tab.0.right" timestamp="1590327075961">
+      <screen x="34" y="23" width="1406" height="877" />
+    </state>
+    <state width="815" height="79" key="GridCell.Tab.0.right/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590327075961" />
   </component>
 </project>

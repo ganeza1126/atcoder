@@ -21,11 +21,6 @@ cd $number
 
 echo "Create files."
 
-#add
-touch input.txt
-echo "created file: input.txt"
-#add
-
 # cpp file template
 template=$(cat <<EOS
 #include <bits/stdc++.h>
@@ -40,7 +35,7 @@ int main() {
 EOS
 )
 
-filelist=("a" "b" "c" "d" "e" "f" "test")
+filelist=("a" "b" "c" "d" "e" "f")
 
 for file in ${filelist[@]}
 do
