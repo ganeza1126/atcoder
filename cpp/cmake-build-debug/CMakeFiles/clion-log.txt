@@ -1,22 +1,18 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/local/opt/gcc/bin/g++-9 -G "CodeBlocks - Unix Makefiles" /Users/akase/atcoder/cpp
--- The C compiler identification is AppleClang 11.0.3.11030032
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/cyberlab/atcoder/cpp
+-- The C compiler identification is GNU 9.3.0
 -- The CXX compiler identification is GNU 9.3.0
--- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
--- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -- works
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
 -- Detecting C compile features
 -- Detecting C compile features - done
--- Checking whether CXX compiler has -isysroot
--- Checking whether CXX compiler has -isysroot - yes
--- Checking whether CXX compiler supports OSX deployment target flag
--- Checking whether CXX compiler supports OSX deployment target flag - yes
--- Check for working CXX compiler: /usr/local/opt/gcc/bin/g++-9
--- Check for working CXX compiler: /usr/local/opt/gcc/bin/g++-9 -- works
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
 -- Detecting CXX compiler ABI info
 -- Detecting CXX compiler ABI info - done
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/akase/atcoder/cpp/cmake-build-debug
+-- Build files have been written to: /mnt/c/Users/cyberlab/atcoder/cpp/cmake-build-debug

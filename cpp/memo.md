@@ -1,4 +1,7 @@
 # cpp辞書
+- pair<type, type> a;
+	- pair<int, float> a={1,2.2};a.first->1,a.second->2.2
+- pi -> M_PI
 - char（1文字）をint 変換できない'9'→ 9など
 - 重複解除：`lst.erase(unique(lst.begin(),lst.end()),lst.end())`
 - カンマ区切り(1,2)
@@ -9,11 +12,17 @@ cin >> a >> c >> b;
 ```
 ---
 # tips
+- データの桁数に注意long intとかを使う，165-b
 - cinよりscanfの方が速い，下を追加した方が早くなる
 ```
 cin.tie(0);
 ios::sync_with_stdio(false);
 ```
+---
+# できなかった問題(dまで）
+- abc165(c):dfs(深さ優先探索)
+- agc044(a):mapの使い方，再帰関数
+- abc168(d):bfs(幅優先探索）
 ---
 # clion関連
 - shift enterで行の完成（従来はcommand shift enter)

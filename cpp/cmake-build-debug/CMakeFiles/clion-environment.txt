@@ -1,3 +1,4 @@
-ToolSet: 1.0 (local)Options: 
+ToolSet: Ubuntu 20.04 LTS (local)@C:\Users\cyberlab\AppData\Local\Microsoft\WindowsApps\ubuntu2004.exe
+Options: 
 
-Options:-DCMAKE_CXX_COMPILER=/usr/local/opt/gcc/bin/g++-9
+Options:

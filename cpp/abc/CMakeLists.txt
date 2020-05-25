@@ -2,7 +2,7 @@
 # Contest abc 165
 add_executable(165_a 165/a.cpp)
 add_executable(165_b 165/b.cpp)
-add_executable(165_c 165/c.cpp)
+add_executable(165_c 165/c_dfs_good.cpp)
 add_executable(165_d 165/d.cpp)
 add_executable(165_e 165/e.cpp)
 add_executable(165_f 165/f.cpp)

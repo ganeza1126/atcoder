@@ -2,8 +2,14 @@
 using namespace std;
 
 int main() {
-    cin.tie(0);
-    ios::sync_with_stdio(false);
-
+    int k,a,b;
+    cin >> k >> a>> b;
+    if ((b%k==0)||(a%k==0)){
+        cout << "OK" << endl;
+    }else if (b/k-a/k >=1) {
+        cout << "OK" <<endl;
+    } else {
+        cout << "NG" << endl;
+    }
     return 0;
 }
