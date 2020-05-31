@@ -4,13 +4,6 @@ using namespace std;
 typedef unsigned long long ll;
 //typedef unsigned long long ull;
 
-
-
-// できなかった理由
-//long longだと足りない
-//かといってunsigned long long だと負の場合がうまくいかない
-//うまくullとllを組み合わせる
-
 int main() {
     int n;
     cin >> n;
