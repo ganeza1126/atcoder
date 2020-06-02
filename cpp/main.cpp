@@ -5,60 +5,37 @@ typedef unsigned long long ll;
 //typedef unsigned long long ull;
 
 
-
-// できなかった理由
-//long longだと足りない
-//かといってunsigned long long だと負の場合がうまくいかない
-//うまくullとllを組み合わせる
-
 int main() {
-    int n;
-    cin >> n;
-    n++;
-    vector<ll> a(n);
-    rep(i, n) {
-        cin >> a.at(i);
-    }
-    vector<ll> c(n);//分岐点の最大数
+    ll a;
+    double b;
+    cin>>a>>b;
 
-    c.at(0) =  (1 - a.at(0));
-//    if (c.at(0) < 0) {
-    if (1 < a.at(0)) {
-        cout << -1 << endl;
-        return 0;
-    }
-    for (int i = 1; i < n; i++) {
-        c.at(i) = 2 * (c.at(i - 1) - a.at(i - 1));
-//        if (c.at(i) < 0) {
-        if (2*(c.at(i-1)-a.at(i-1)) < 0) {
-            cout << -1 << endl;
-            return 0;
-        }
-    }
+    ll aa =  b/10;
+    ll a0 =  b;
+    ll a1 =  b*10;
+    ll a2 =  b*100;
+    ll b0 = a0%10;
+    ll b1 = a1%10;
+    ll b2 = a2%10;
+/*
+    ll cc = aa*a*100;
+    ll c0 = b0*a*10;
+    ll c1 = b1*a;
+    ll c2 = b2*a/10;
+*/
+    ll c2 = b2*a/10;
+    ll c1 = (b1*a+c2)/10;
+    ll c0 = b0*a;
+    ll cc = aa*a*10;
+    ll ans= cc+c0+c1;
+    cout<<ans<<endl;
+//    cout<<9990000000000000<<endl;
 
-    vector<ll> b(n);
 
-    for (int i = n - 2; i >= 0; i--) {
-        ll ab = a.at(i + 1) + b.at(i + 1);
-        if(c.at(i) < a.at(i)){
-            cout << -1 << endl;
-            return 0;
-        }
-        ll ca = c.at(i) - a.at(i);
-        if (ab <= ca) {
-            b.at(i) = ab;
-        } else if (ab <= 2 * ca) {
-            b.at(i) = ca;
-        } else {
-            cout << -1 << endl;
-            return 0;
-        }
-    }
-    ll ans = 0;
-    rep(i, n) {
-        ans += b.at(i) + a.at(i);
-    }
-    cout << ans << endl;
+
+
+
+
     return 0;
 }
 
