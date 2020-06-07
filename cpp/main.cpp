@@ -1,41 +1,36 @@
 #include <bits/stdc++.h>
 #define rep(i,n) for (int i = 0; i < (n); ++i)
 using namespace std;
-typedef unsigned long long ll;
-//typedef unsigned long long ull;
-
-
-int main() {
-    ll a;
-    double b;
-    cin>>a>>b;
-
-    ll aa =  b/10;
-    ll a0 =  b;
-    ll a1 =  b*10;
-    ll a2 =  b*100;
-    ll b0 = a0%10;
-    ll b1 = a1%10;
-    ll b2 = a2%10;
-/*
-    ll cc = aa*a*100;
-    ll c0 = b0*a*10;
-    ll c1 = b1*a;
-    ll c2 = b2*a/10;
-*/
-    ll c2 = b2*a/10;
-    ll c1 = (b1*a+c2)/10;
-    ll c0 = b0*a;
-    ll cc = aa*a*10;
-    ll ans= cc+c0+c1;
-    cout<<ans<<endl;
-//    cout<<9990000000000000<<endl;
-
-
-
-
-
-
-    return 0;
+typedef  long long ll;
+typedef unsigned long long ull;
+template<typename T>
+void fin (T a){
+    cout<<a<<endl;
+    exit(0);
 }
 
+
+int main(){
+    ll n;cin>>n;
+    ll ans = 0;
+    map<ll,ll> mp;
+    for (ll i = 2; i * i <= n; i++) {
+        while(n%i==0){
+            n/=i;
+            mp[i]++;
+        }
+    }
+    if(n !=1)mp[n]++;
+    for(auto x : mp) {
+        ll s = x.second;
+        ll now =1;
+        while(now<=s){
+            s -= now;
+            now++;
+            ans++;
+        }
+    }
+
+    fin(ans);
+    return 0;
+}

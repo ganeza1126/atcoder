@@ -1,5 +1,5 @@
 #メモ
-- [公式のテストケースが入っているサイト](https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAk_SECQ2Nc6SVGii3rHX6Fa?dl=0)
+- [公式のテストケースが入っているサイト](https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAk_SECQ2Nc6SVGii3rHX6Fa?dl=0)&lst=)
 - [atcoder problems](https://kenkoooo.com/atcoder/#/table/oinari)
 
 # cpp辞書
@@ -16,6 +16,7 @@ cin >> a >> c >> b;
 ```
 ---
 # tips
+- 桁落ちを回避するにはなるべく引き算を回避すると良い
 - dpにbool値を使うのはあまりよくない
 - データの桁数に注意long intとかを使う，165-b
 - cinよりscanfの方が速い，下を追加した方が早くなる
@@ -25,7 +26,10 @@ ios::sync_with_stdio(false);
 ```
 ---
 # できなかった問題(dまで）
-- abc161(d):      queueの使い方
+- abc169(d):素因数分解について，map,vecotrのfor文について（for(auto x: mp){ x.first,x.second})
+- abc169(c):浮動小数点の話（doubleに179を入れると，1.78999999999となっておかしくなる
+- abc169(b):オーバーフローのお話（オーバフローを確認する方法はlogを取る（log10(a))もしくは，$a\cdot b = c$のとき，$c/b \neq b $で確認する
+- abc161(d):queueの使い方
 - abc165(c):dfs(深さ優先探索)
 - abc166(e):mapのうまい使い方
 - abc167(c,d):別解としてビットシフトの手法を確認
