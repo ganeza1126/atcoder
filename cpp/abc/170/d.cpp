@@ -15,29 +15,25 @@ void print(S a){
     cout<<a<<endl;
 }
 
-template<typename U>
-void pprint(U a){
-    cout<<a;
-}
 
 int main(){
-    cin.tie(0);
-    ios::sync_with_stdio(false);
+    int n;cin>>n;
+    ll num = 1000001;
+    int ans = 0;
+    vector <int>b(num,0);
+    rep(i,n){
+        int x; cin>>x;
+        b[x]++;
+    }
+    rep(i,num){
+        if(b[i]==0)continue;
+        for(int j=i*2;j<=num;j+=i){
+            b[j]=2;
+        }
+        if(b[i]==1)ans++;
+    }
+    fin(ans);
 
-    int n;
-    double a,b;
-    cin>>n>>a>>b;
-
-    int mul;
-    mul = pow(2,n);
-    pprint(a/mul);
-    pprint(" ");
-    print(b*mul);
-
-
-
-
-    return 0;
 }
 
 

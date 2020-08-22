@@ -15,25 +15,23 @@ void print(S a){
     cout<<a<<endl;
 }
 
-template<typename U>
-void pprint(U a){
-    cout<<a;
-}
 
 int main(){
-    cin.tie(0);
-    ios::sync_with_stdio(false);
-
-    int n;
-    double a,b;
-    cin>>n>>a>>b;
-
-    int mul;
-    mul = pow(2,n);
-    pprint(a/mul);
-    pprint(" ");
-    print(b*mul);
-
+    ll n;cin>>n;
+    ll tmp;
+    vector<ll> a(n);
+    ll ans = 0;
+    rep(i,n){
+        cin>>tmp;
+        a.at(i) = tmp;
+        ans^=tmp;
+    }
+    rep(i,n-1){
+        tmp = ans^a[i];
+        cout<<tmp<<" ";
+    }
+    tmp = ans^a[n-1];
+    cout<<tmp<<endl;
 
 
 

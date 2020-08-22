@@ -1,70 +1,53 @@
 #include <bits/stdc++.h>
 #define rep(i,n) for (int i = 0; i < (n); ++i)
 using namespace std;
-typedef long long ll;
+typedef  long long ll;
 typedef unsigned long long ull;
 
+template<typename T>
+void fin (T a){
+    cout<<a<<endl;
+    exit(0);
+}
+template<typename S>
+void print(S a){
+    cout<<a<<endl;
+}
+
+
 int main(){
+    cin.tie(0);
+    ios::sync_with_stdio(false);
+
     int k;
     cin>>k;
     queue<ll> a;
-    int cnt=0;
     for(int i=1;i<10;i++){
         a.push(i);
     }
     ll tmp;
-    while(cnt<=k){
+    int cnt=0;
+    while(cnt<k){
         tmp = a.front();
         a.pop();
-        aa;
-        switch(tmp%10)
+        int t = tmp%10;
+        switch(t){
             case 0:
-
-
-
-
-    }
-}
-
-/* できなかった
-int main() {
-    int k;
-    cin>>k;
-    vector<vector<int>> dp(10);
-    rep(i,9){
-        dp[i+1].push_back(1);
-    }
-    int sum=9;
-    vector<int> lst;
-    lst.push_back(sum);
-
-    int cnt=0;
-    int tmp=0;
-    while(sum<k){
-        int lsum=0;
-
-        tmp=dp[0][cnt]+dp[1][cnt];
-        lsum +=tmp;
-        dp.at(0).push_back(tmp);
-
-        tmp=dp[8][cnt]+dp[9][cnt];
-        lsum +=tmp;
-        dp.at(9).push_back(tmp);
-
-        for(int i=1;i<9;i++){
-            tmp=dp[i][cnt]+dp[i-1][cnt]+dp[i+1][cnt];
-            lsum +=tmp;
-            dp.at(i).push_back(tmp);
+                a.push(tmp*10+t);
+                a.push(tmp*10+t+1);
+                break;
+            case 9:
+                a.push(tmp*10+t-1);
+                a.push(tmp*10+t);
+                break;
+            default:
+                a.push(tmp*10+t-1);
+                a.push(tmp*10+t);
+                a.push(tmp*10+t+1);
+                break;
         }
-
-        sum += lsum;
-        lst.push_back(lsum);
-        tmp=0;
+        cnt++;
     }
-    int keta = lst.size();
-    cout << keta <<endl;
+    fin(tmp);
 
-
-    return 0;
 }
-*/

@@ -56,3 +56,51 @@ add_executable(169_c 169/c.cpp)
 add_executable(169_d 169/d.cpp)
 add_executable(169_e 169/e.cpp)
 add_executable(169_f 169/f.cpp)
+
+# Contest abc 163
+add_executable(163_a 163/a.cpp)
+add_executable(163_b 163/b.cpp)
+add_executable(163_c 163/c.cpp)
+add_executable(163_d 163/d.cpp)
+add_executable(163_e 163/e.cpp)
+add_executable(163_f 163/f.cpp)
+
+# Contest abc 162
+add_executable(162_a 162/a.cpp)
+add_executable(162_b 162/b.cpp)
+add_executable(162_c 162/c.cpp)
+add_executable(162_d 162/d.cpp)
+add_executable(162_e 162/e.cpp)
+add_executable(162_f 162/f.cpp)
+
+# Contest abc 170
+add_executable(170_a 170/a.cpp)
+add_executable(170_b 170/b.cpp)
+add_executable(170_c 170/c.cpp)
+add_executable(170_d 170/d.cpp)
+add_executable(170_e 170/e.cpp)
+add_executable(170_f 170/f.cpp)
+
+# Contest abc 171
+add_executable(171_a 171/a.cpp)
+add_executable(171_b 171/b.cpp)
+add_executable(171_c 171/c.cpp)
+add_executable(171_d 171/d.cpp)
+add_executable(171_e 171/e.cpp)
+add_executable(171_f 171/f.cpp)
+
+# Contest abc 172
+add_executable(172_a 172/a.cpp)
+add_executable(172_b 172/b.cpp)
+add_executable(172_c 172/c.cpp)
+add_executable(172_d 172/d.cpp)
+add_executable(172_e 172/e.cpp)
+add_executable(172_f 172/f.cpp)
+
+# Contest abc 173
+add_executable(173_a 173/a.cpp)
+add_executable(173_b 173/b.cpp)
+add_executable(173_c 173/c.cpp)
+add_executable(173_d 173/d.cpp)
+add_executable(173_e 173/e.cpp)
+add_executable(173_f 173/f.cpp)
