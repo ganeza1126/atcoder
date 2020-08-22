@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/cpp.dir/main.cpp.o  -o cpp 
+/usr/local/opt/gcc/bin/g++-9  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cpp.dir/main.cpp.o  -o cpp 

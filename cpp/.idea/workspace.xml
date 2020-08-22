@@ -30,10 +30,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e219a2c-9c7d-4b78-9a1d-40f45b78b11e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../py/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../py/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +89,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+<<<<<<< Updated upstream
   </component>
   <component name="RunAnythingCache">
     <myKeys>
@@ -75,6 +101,8 @@
       <visibility group="npm" flag="true" />
       <visibility group="yarn" flag="true" />
     </myKeys>
+=======
+>>>>>>> Stashed changes
   </component>
   <component name="RunManager">
     <configuration name="cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="$PROJECT_DIR$/input.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="cpp">
@@ -84,7 +112,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,6 +131,7 @@
       <workItem from="1591479992539" duration="4023000" />
       <workItem from="1591519926959" duration="4074000" />
       <workItem from="1591551710861" duration="2143000" />
+<<<<<<< Updated upstream
       <workItem from="1591580197131" duration="899000" />
       <workItem from="1591581147593" duration="11514000" />
       <workItem from="1591600504117" duration="14230000" />
@@ -118,6 +147,11 @@
       <workItem from="1597396417993" duration="11497000" />
       <workItem from="1597494003447" duration="5527000" />
       <workItem from="1597999255864" duration="1537000" />
+=======
+      <workItem from="1594711732329" duration="1664000" />
+      <workItem from="1594714074430" duration="1059000" />
+      <workItem from="1598095288731" duration="326000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -144,6 +178,7 @@
     <state x="194" y="179" key="#SSH_設定" timestamp="1593255990336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+<<<<<<< Updated upstream
     <state x="194" y="179" key="#SSH_設定/0.0.1920.1040@0.0.1920.1040" timestamp="1593255990336" />
     <state x="0" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590509894216">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -154,10 +189,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="160" y="259" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591581067580" />
+=======
+    <state x="194" y="179" key="#SSH_設定/0.0.1920.1040@0.0.1920.1040" timestamp="1591518488949" />
+    <state x="36" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594712580687">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="0" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590509894216" />
+    <state x="34" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590326790004" />
+    <state x="36" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/36.23.1404.877@36.23.1404.877" timestamp="1594712580687" />
+>>>>>>> Stashed changes
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1591551818902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591551818902" />
+<<<<<<< Updated upstream
     <state x="202" y="350" width="120" height="690" key="GridCell.Tab.-1.bottom" timestamp="1593264381537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -172,6 +217,28 @@
     <state x="202" y="350" width="120" height="690" key="GridCell.Tab.-1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593264381536" />
     <state x="202" y="350" width="120" height="690" key="GridCell.Tab.-1.right" timestamp="1593264381537">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="815" height="286" key="GridCell.Tab.0.bottom" timestamp="1594715162156">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="407" height="788" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591553870637" />
+    <state width="815" height="79" key="GridCell.Tab.0.bottom/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590327075961" />
+    <state width="815" height="286" key="GridCell.Tab.0.bottom/36.23.1404.877@36.23.1404.877" timestamp="1594715162156" />
+    <state width="815" height="286" key="GridCell.Tab.0.center" timestamp="1594715162156">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="407" height="788" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591553870636" />
+    <state width="815" height="79" key="GridCell.Tab.0.center/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590327075960" />
+    <state width="815" height="286" key="GridCell.Tab.0.center/36.23.1404.877@36.23.1404.877" timestamp="1594715162156" />
+    <state width="815" height="286" key="GridCell.Tab.0.left" timestamp="1594715162155">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="407" height="788" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591553870636" />
+    <state width="815" height="79" key="GridCell.Tab.0.left/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590327075960" />
+    <state width="815" height="286" key="GridCell.Tab.0.left/36.23.1404.877@36.23.1404.877" timestamp="1594715162155" />
+    <state width="815" height="286" key="GridCell.Tab.0.right" timestamp="1594715162156">
+      <screen x="36" y="23" width="1404" height="877" />
+>>>>>>> Stashed changes
     </state>
     <state x="202" y="350" width="120" height="690" key="GridCell.Tab.-1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593264381537" />
     <state width="867" height="111" key="GridCell.Tab.0.bottom" timestamp="1598002696674">
@@ -197,6 +264,7 @@
     </state>
     <state width="409" height="911" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593964438513" />
     <state width="815" height="79" key="GridCell.Tab.0.right/203.923.1024.745/34.23.1406.877@34.23.1406.877" timestamp="1590327075961" />
+<<<<<<< Updated upstream
     <state width="867" height="111" key="GridCell.Tab.0.right/93.0.1827.1080@93.0.1827.1080" timestamp="1598002696674" />
     <state x="340" y="23" width="400" height="569" key="GridCell.Tab.1.bottom" timestamp="1597828077466">
       <screen x="93" y="0" width="1827" height="1080" />
@@ -256,11 +324,41 @@
     </state>
     <state x="340" y="23" width="136" height="729" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1593264587285" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592744970782">
+=======
+    <state width="815" height="286" key="GridCell.Tab.0.right/36.23.1404.877@36.23.1404.877" timestamp="1594715162156" />
+    <state width="815" height="286" key="GridCell.Tab.1.bottom" timestamp="1594715162157">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="407" height="788" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591553870637" />
+    <state width="815" height="286" key="GridCell.Tab.1.bottom/36.23.1404.877@36.23.1404.877" timestamp="1594715162157" />
+    <state width="815" height="286" key="GridCell.Tab.1.center" timestamp="1594715162156">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="407" height="788" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591553870637" />
+    <state width="815" height="286" key="GridCell.Tab.1.center/36.23.1404.877@36.23.1404.877" timestamp="1594715162156" />
+    <state width="815" height="286" key="GridCell.Tab.1.left" timestamp="1594715162156">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="407" height="788" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591553870637" />
+    <state width="815" height="286" key="GridCell.Tab.1.left/36.23.1404.877@36.23.1404.877" timestamp="1594715162156" />
+    <state width="815" height="286" key="GridCell.Tab.1.right" timestamp="1594715162157">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="407" height="788" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591553870637" />
+    <state width="815" height="286" key="GridCell.Tab.1.right/36.23.1404.877@36.23.1404.877" timestamp="1594715162157" />
+    <state x="540" y="23" width="900" height="877" key="SettingsEditor" timestamp="1594712573665">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="127" y="179" width="1144" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591551927791" />
+    <state x="540" y="23" width="900" height="877" key="SettingsEditor/36.23.1404.877@36.23.1404.877" timestamp="1594712573665" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590833766471">
+>>>>>>> Stashed changes
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592744970782" />
   </component>
   <component name="XDebuggerManager">
+<<<<<<< Updated upstream
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
@@ -270,5 +368,12 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+=======
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="ans" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+>>>>>>> Stashed changes
   </component>
 </project>

@@ -10,6 +10,7 @@ void fin (T a){
     exit(0);
 }
 
+<<<<<<< Updated upstream
 template<typename S>
 void print(S a){
     cout<<a<<endl;
@@ -37,6 +38,29 @@ int main(){
 
 
 
+=======
+int main(){
+    int a = 'A';
+    char b;
+    int pt = 1;
+    int tmp = 98;
+    vector<char> ans;
+    rep(i,25){
+        b = pt%26+a-1;
+        ans.push_back(b);
+        pt+=tmp;
+        b = pt%26+a-1;
+        ans.push_back(b);
+        tmp -=4;
+    }
+
+    rep(i,25){
+        cout<<ans[i*2];
+    }
+    for(int i=99;i>=0;i-=2){
+        cout<<ans[i];
+    }
+>>>>>>> Stashed changes
     return 0;
 }
 

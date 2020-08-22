@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc279a0e-bd4b-4936-8f15-d3ad6568b510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/3.16.5/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/3.16.5/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/cpp.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/cmake-build-debug/cpp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/cmake-build-debug/cpp.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="cc279a0e-bd4b-4936-8f15-d3ad6568b510" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="708">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="585">
+              <caret line="41" column="27" selection-start-line="14" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -91,10 +58,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="30" />
     <option name="y" value="23" />
-    <option name="width" value="702" />
+    <option name="width" value="1410" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -103,17 +70,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -170,10 +127,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="23" width="702" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="30" y="23" width="1410" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32892805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1612671" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -218,8 +174,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="585">
+          <caret line="41" column="27" selection-start-line="14" selection-end-line="42" />
         </state>
       </provider>
     </entry>

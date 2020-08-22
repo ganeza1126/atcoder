@@ -1,4 +1,4 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/cyberlab/atcoder/cpp
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/local/opt/gcc/bin/g++-9 -G "CodeBlocks - Unix Makefiles" /Users/akase/atcoder/cpp
 -- Configuring done
 -- Generating done
--- Build files have been written to: /mnt/c/Users/cyberlab/atcoder/cpp/cmake-build-debug
+-- Build files have been written to: /Users/akase/atcoder/cpp/cmake-build-debug
