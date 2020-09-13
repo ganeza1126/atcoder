@@ -10,7 +10,6 @@ void fin (T a){
     exit(0);
 }
 
-<<<<<<< Updated upstream
 template<typename S>
 void print(S a){
     cout<<a<<endl;
@@ -18,49 +17,65 @@ void print(S a){
 
 template<typename U>
 void pprint(U a){
-    cout<<a;
+    cout<<a<<" ";
 }
+
 
 int main(){
     cin.tie(0);
     ios::sync_with_stdio(false);
 
-    int n;
-    double a,b;
-    cin>>n>>a>>b;
+    ll n,m;
+    cin>>n>>m;
+    vector<ll> g(n);
+    ll groupid=1;
+    ll x,y;
+    ll sum = n;
 
-    int mul;
-    mul = pow(2,n);
-    pprint(a/mul);
-    pprint(" ");
-    print(b*mul);
-
-
-
-
-=======
-int main(){
-    int a = 'A';
-    char b;
-    int pt = 1;
-    int tmp = 98;
-    vector<char> ans;
-    rep(i,25){
-        b = pt%26+a-1;
-        ans.push_back(b);
-        pt+=tmp;
-        b = pt%26+a-1;
-        ans.push_back(b);
-        tmp -=4;
+    if(m==0) {
+        fin(1);
     }
 
-    rep(i,25){
-        cout<<ans[i*2];
+    rep(i,m){
+        if(sum==0){
+            break;
+        }
+        cin>>x>>y;
+        x--;y--;
+
+        if(g[x]+g[y]==0){
+            g[x]=groupid;
+            g[y]=groupid;
+            groupid++;
+            sum -=2;
+        }else if (g[x]==0){
+            g[x] = g[y];
+            sum -=1;
+        } else if (g[y] == 0) {
+            g[y] = g[x];
+            sum -=1;
+        } else if (g[x] != g[y]) {
+            rep(i,n){
+                if(g[i] == g[y]){
+                    g[y] = g[x];
+                }
+            }
+        }
+
     }
-    for(int i=99;i>=0;i-=2){
-        cout<<ans[i];
+
+    map<ll,ll> mp;
+    rep(i,n){
+        mp[g[i]] += 1;
     }
->>>>>>> Stashed changes
+
+    ll ans = 0;
+    for (auto x:mp) {
+        ans = max(ans,x.second);
+    }
+
+    fin(ans);
+
     return 0;
 }
 
